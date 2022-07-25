@@ -34,5 +34,5 @@ This is the User-Interface of Landing page of a hosting website designed fully w
 
 # Deployed Landing Page Link
 
-[Hosting Website Landing Page]()
+[Hosting Website Landing Page](https://hosting-websiteui.netlify.app/)
 ***
